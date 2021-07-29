@@ -73,34 +73,10 @@
       "platforms": ["espressif32"]
     },
     {
-      "owner": "khoih-prog",
-      "name": "EthernetWebServer_STM32",
-      "version": ">=1.2.0",
-      "platforms": ["ststm32"]
-    },
-    {
       "owner": "khoih.prog",
       "name": "SinricPro_Generic",
       "version": ">=2.8.0",
       "platforms": ["*"]
-    },
-    {
-      "owner": "stm32duino",
-      "name": "STM32duino LwIP",
-      "version": ">=2.1.2",
-      "platforms": ["ststm32"]
-    },
-    {
-      "owner": "stm32duino",
-      "name": "STM32Ethernet",
-      "version": ">=1.2.0",
-      "platforms": ["ststm32"]
-    },
-    {
-      "owner": "uipethernet",
-      "name": "UIPEthernet",
-      "version": ">=2.0.8",
-      "platforms": ["atmelavr", "atmelmegaavr", "atmelsam", "espressif8266", "intel_arc32", "nordicnrf51", "nxplpc", "ststm32", "teensy"]
     },
     {
       "owner": "jandrassy",
@@ -115,29 +91,11 @@
       "platforms": ["*"]
     },
     {
-      "owner": "adafruit",
-      "name": "Ethernet2",
-      "version": ">=1.0.4",
-      "platforms": ["*"]
-    },
-    {
-      "owner": "sstaub",
-      "name": "Ethernet3",
-      "version": ">=1.5.5",
-      "platforms": ["*"]
-    },
-    {
       "owner": "arduino-libraries",
       "name": "Ethernet",
       "version": ">=2.0.0",
       "platforms": ["*"]
     },
-    {
-      "owner": "openslab-osu",
-      "name": "EthernetLarge",
-      "version": ">=2.0.0",
-      "platforms": ["*"]
-    }
   ],
   "frameworks": "*",
   "platforms": "*",
